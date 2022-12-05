@@ -56,3 +56,6 @@ Current commands supported in nautilus are the following:
 - If `-l` is not specified, use simple format, e.g. file or directory name.
 - If `-l` is specified, use a long listing format.
 
+
+To run the following code for nautilus simply run the `nautilus.py` file using `python3`
+
