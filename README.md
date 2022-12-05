@@ -3,10 +3,10 @@
 Nautilus is a terminal interface written in python that acts to emulate the linux command line.
 Current commands supported in nautilus are the following:
 
-### exit
+### `exit`
 - Quits the program
 
-### pwd
+### `pwd`
 - Prints the name of current working virtual directory.
 
 
