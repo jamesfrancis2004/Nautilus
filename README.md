@@ -11,11 +11,11 @@ Current commands supported in nautilus are the following:
 
 
 ### `cd <dir>`
-- Changes the working directory to <dir>
+- Changes the working directory to '<dir>'
 
 ### `mkdir [-p] <dir>`
 - Create the directory `<dir>`, if `<dir>` does not already refer to a file or directory.
-- If `-p` is specified create full directory structure given by <dir>
+- If `-p` is specified create full directory structure given by `<dir>`
 
 ### `touch <file>`
 - Creates a new file
